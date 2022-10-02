@@ -10,7 +10,7 @@
     <a href="https://discordapp.com/users/534449983244730368" target="_blank"><img src="./img/discord-v2-svgrepo-com.svg" width="36"/></a>
     <a href="https://www.facebook.com/nazar.savchuk.liED/" target="_blank"><img width="36" src="./img/facebook-svgrepo-com.svg"/></a>
     <a href="https://www.instagram.com/_nazar_savchuk_/" target="_blank"><img                                           src="./img/instagram-svgrepo-com.svg" width="36"/></a>
-    <a href="https://www.linkedin.com/in/paul-litovka-61a5941b6" target="_blank"><img                                           src="/img/linkedin-svgrepo-com (1).svg" width="36"/></a>
+    <a href="https://www.linkedin.com/in/nazar-savchuk-66b3ba1bb/" target="_blank"><img                                           src="/img/linkedin-svgrepo-com (1).svg" width="36"/></a>
 </p>
 </p>
 <p align="center">
