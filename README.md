@@ -25,5 +25,4 @@
     <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-flat&logo=next.js&logoColor=white" />
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
     <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-flat&logo=sass&logoColor=white" /><br/>
-    <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-flat&logo=mariadb&logoColor=white" />
 </p>
