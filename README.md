@@ -21,7 +21,6 @@
     <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-e87000?style=flat-flat&logo=java&logoColor=white" /><br/>
     <img alt="webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-flat&logo=webpack&logoColor=gray" />
-    <img alt="apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-flat&logo=apache&logoColor=white" />
     <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-flat&logo=next.js&logoColor=white" />
     <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-flat&logo=react&logoColor=black" />
     <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-flat&logo=sass&logoColor=white" /><br/>
